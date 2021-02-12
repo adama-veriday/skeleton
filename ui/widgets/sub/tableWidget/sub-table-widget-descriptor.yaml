@@ -1,0 +1,6 @@
+code: sub-table-widget
+titles:
+  en: Sub Table Widget
+  it: Sub Table Widget
+group: free
+customUiPath: sub-table-widget.ftl

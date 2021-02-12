@@ -1,0 +1,6 @@
+code: sub-details-widget
+titles:
+  en: Sub Details Widget
+  it: Sub Details Widget
+group: free
+customUiPath: sub-details-widget.ftl

@@ -1,0 +1,6 @@
+code: sub-form-widget
+titles:
+  en: Sub Form Widget
+  it: Sub Form Widget
+group: free
+customUiPath: sub-form-widget.ftl
