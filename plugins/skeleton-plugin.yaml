@@ -1,0 +1,11 @@
+image: adamadj/skeleton:0.0.1-SNAPSHOT
+dbms: mysql
+healthCheckPath: "/management/health"
+roles:
+  - "skeleton-admin"
+  - "partner-admin"
+  - "customer-admin"
+  - "sub-admin"
+  - "project-admin"
+  - "ticket-admin"
+# entando-needle-descriptor-add-roles - Entando blueprint will add roles here

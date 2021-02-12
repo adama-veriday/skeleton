@@ -1,0 +1,25 @@
+code: skeleton-bundle
+description: This is the skeleton bundle
+
+components:
+  plugins:
+    - plugins/skeleton-plugin.yaml
+
+  widgets:
+    - ui/widgets/partner/tableWidget/partner-table-widget-descriptor.yaml
+    - ui/widgets/partner/detailsWidget/partner-details-widget-descriptor.yaml
+    - ui/widgets/partner/formWidget/partner-form-widget-descriptor.yaml
+    - ui/widgets/customer/tableWidget/customer-table-widget-descriptor.yaml
+    - ui/widgets/customer/detailsWidget/customer-details-widget-descriptor.yaml
+    - ui/widgets/customer/formWidget/customer-form-widget-descriptor.yaml
+    - ui/widgets/sub/tableWidget/sub-table-widget-descriptor.yaml
+    - ui/widgets/sub/detailsWidget/sub-details-widget-descriptor.yaml
+    - ui/widgets/sub/formWidget/sub-form-widget-descriptor.yaml
+    - ui/widgets/project/tableWidget/project-table-widget-descriptor.yaml
+    - ui/widgets/project/detailsWidget/project-details-widget-descriptor.yaml
+    - ui/widgets/project/formWidget/project-form-widget-descriptor.yaml
+    - ui/widgets/ticket/tableWidget/ticket-table-widget-descriptor.yaml
+    - ui/widgets/ticket/detailsWidget/ticket-details-widget-descriptor.yaml
+    - ui/widgets/ticket/formWidget/ticket-form-widget-descriptor.yaml
+# entando-needle-descriptor-add-widgets - Entando blueprint will add widget bundle files here
+
