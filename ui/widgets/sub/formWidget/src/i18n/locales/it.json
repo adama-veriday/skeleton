@@ -1,0 +1,38 @@
+{
+  "error": {
+    "dataLoading": "Errore durante la connessione al server"
+  },
+  "common": {
+    "save": "Salva",
+    "dataSaved": "Sub salvato/a con successo",
+    "dataDeleted": "Sub eliminato/a con successo",
+    "notAuthenticated": "L'utente non è autenticato.",
+    "selectFile": "Carica nuovo file",
+    "selectImageFile": "Carica nuova immagine",
+    "download": "Scarica",
+    "cancel": "Annulla",
+    "delete": "Elimina",
+    "yes": "Si",
+    "no": "No"
+  },
+  "validation": {
+    "required": "{{field}} è obbligatorio"
+  },
+  "entities": {
+    "sub": {
+      "deleteDialog": {
+        "title": "Elimina sub",
+        "description": "Sei sicuro/a?"
+      },
+      "notFound": "Sub non trovato/a",
+      "deleted": "Sub eliminato/a",
+      "id": "ID",
+      "level": "entità.sub.level",
+      "length": "entità.sub.length",
+      "status": "entità.sub.status",
+      "project_id": "entità.sub.project_id",
+      "start_date": "entità.sub.start_date",
+      "customer_id": "entità.sub.customer_id"
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "fluentMethods": true,
+  "clientRootFolder": "skeleton",
+  "relationships": [],
+  "fields": [
+    {
+      "fieldName": "level",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "length",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "status",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "project_id",
+      "fieldType": "Integer"
+    },
+    {
+      "fieldName": "start_date",
+      "fieldType": "LocalDate"
+    },
+    {
+      "fieldName": "customer_id",
+      "fieldType": "Integer"
+    }
+  ],
+  "changelogDate": "20210212034234",
+  "dto": "no",
+  "searchEngine": false,
+  "service": "no",
+  "entityTableName": "sub",
+  "databaseType": "sql",
+  "readOnly": false,
+  "jpaMetamodelFiltering": false,
+  "pagination": "no",
+  "microserviceName": "skeleton"
+}

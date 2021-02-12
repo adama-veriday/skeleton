@@ -1,0 +1,39 @@
+{
+  "error": {
+    "dataLoading": "Error during server connection"
+  },
+  "common": {
+    "save": "Save",
+    "dataSaved": "Project successfully saved",
+    "dataDeleted": "Project successfully deleted",
+    "notAuthenticated": "User is not authenticated.",
+    "selectFile": "Upload new file",
+    "selectImageFile": "Upload new image",
+    "download": "Download",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "yes": "Yes",
+    "no": "No"
+  },
+  "validation": {
+    "required": "{{field}} is required"
+  },
+  "entities": {
+    "project": {
+      "deleteDialog": {
+        "title": "Delete project",
+        "description": "Are you sure?"
+      },
+      "notFound": "Project not found",
+      "deleted": "Project deleted",
+      "id": "ID",
+      "name": "entities.project.name",
+      "partner_id": "entities.project.partner_id",
+      "customer_id": "entities.project.customer_id",
+      "procurment_officer_name": "entities.project.procurment_officer_name",
+      "procurment_contact_no": "entities.project.procurment_contact_no",
+      "tickets": "entities.project.tickets",
+      "subscriptions": "entities.project.subscriptions"
+    }
+  }
+}

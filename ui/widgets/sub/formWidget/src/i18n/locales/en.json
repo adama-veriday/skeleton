@@ -1,0 +1,38 @@
+{
+  "error": {
+    "dataLoading": "Error during server connection"
+  },
+  "common": {
+    "save": "Save",
+    "dataSaved": "Sub successfully saved",
+    "dataDeleted": "Sub successfully deleted",
+    "notAuthenticated": "User is not authenticated.",
+    "selectFile": "Upload new file",
+    "selectImageFile": "Upload new image",
+    "download": "Download",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "yes": "Yes",
+    "no": "No"
+  },
+  "validation": {
+    "required": "{{field}} is required"
+  },
+  "entities": {
+    "sub": {
+      "deleteDialog": {
+        "title": "Delete sub",
+        "description": "Are you sure?"
+      },
+      "notFound": "Sub not found",
+      "deleted": "Sub deleted",
+      "id": "ID",
+      "level": "entities.sub.level",
+      "length": "entities.sub.length",
+      "status": "entities.sub.status",
+      "project_id": "entities.sub.project_id",
+      "start_date": "entities.sub.start_date",
+      "customer_id": "entities.sub.customer_id"
+    }
+  }
+}

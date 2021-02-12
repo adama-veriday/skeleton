@@ -1,0 +1,18 @@
+{
+  "common": {
+    "couldNotFetchData": "Unfortunately we could not fetch entity data",
+    "widgetName": "Details about '{{widgetNamePlaceholder}}'",
+    "name": "Name",
+    "value": "Value",
+    "loading": "Loading...",
+    "notAuthenticated": "User is not authenticated."
+  },
+  "entities": {
+    "customer": {
+      "id": "ID",
+      "name": "entities.customer.name",
+      "partner_id": "entities.customer.partner_id",
+      "products": "entities.customer.products"
+    }
+  }
+}

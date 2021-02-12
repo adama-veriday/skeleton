@@ -1,0 +1,25 @@
+{
+  "fluentMethods": true,
+  "clientRootFolder": "skeleton",
+  "relationships": [],
+  "fields": [
+    {
+      "fieldName": "name",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "customers",
+      "fieldType": "String"
+    }
+  ],
+  "changelogDate": "20210212033921",
+  "dto": "no",
+  "searchEngine": false,
+  "service": "no",
+  "entityTableName": "partner",
+  "databaseType": "sql",
+  "readOnly": false,
+  "jpaMetamodelFiltering": false,
+  "pagination": "no",
+  "microserviceName": "skeleton"
+}

@@ -1,0 +1,21 @@
+{
+  "common": {
+    "couldNotFetchData": "Non è stato possibile caricare i dati dell'entità",
+    "widgetName": "Dettagli a proposito di '{{widgetNamePlaceholder}}'",
+    "name": "Nome",
+    "value": "Valore",
+    "loading": "Caricamento in corso...",
+    "notAuthenticated": "L'utente non è autenticato."
+  },
+  "entities": {
+    "sub": {
+      "id": "ID",
+      "level": "entità.sub.level",
+      "length": "entità.sub.length",
+      "status": "entità.sub.status",
+      "project_id": "entità.sub.project_id",
+      "start_date": "entità.sub.start_date",
+      "customer_id": "entità.sub.customer_id"
+    }
+  }
+}

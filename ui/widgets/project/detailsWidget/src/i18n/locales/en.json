@@ -1,0 +1,22 @@
+{
+  "common": {
+    "couldNotFetchData": "Unfortunately we could not fetch entity data",
+    "widgetName": "Details about '{{widgetNamePlaceholder}}'",
+    "name": "Name",
+    "value": "Value",
+    "loading": "Loading...",
+    "notAuthenticated": "User is not authenticated."
+  },
+  "entities": {
+    "project": {
+      "id": "ID",
+      "name": "entities.project.name",
+      "partner_id": "entities.project.partner_id",
+      "customer_id": "entities.project.customer_id",
+      "procurment_officer_name": "entities.project.procurment_officer_name",
+      "procurment_contact_no": "entities.project.procurment_contact_no",
+      "tickets": "entities.project.tickets",
+      "subscriptions": "entities.project.subscriptions"
+    }
+  }
+}

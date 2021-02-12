@@ -1,0 +1,54 @@
+{
+  "error": {
+    "dataLoading": "Error during server connection"
+  },
+  "common": {
+    "couldNotFetchData": "Unfortunately we could not fetch entity data",
+    "notAuthenticated": "User is not authenticated.",
+    "loadingMore": "Loading more...",
+    "download": "Download file",
+    "dataDeleted": "Project successfully deleted",
+    "yes": "Yes",
+    "no": "No"
+  },
+  "pagination": {
+    "ariaLabels": {
+      "firstPage": "first page",
+      "previousPage": "previous page",
+      "nextPage": "next page",
+      "lastPage": "last page"
+    }
+  },
+  "filters": {
+    "field": "Field",
+    "value": "Value",
+    "addFilter": "Add filter",
+    "clearFilters": "Clear filters",
+    "filter": "Filter",
+    "operator": "Operator",
+    "operators": {
+      "equals": "equals",
+      "in": "in",
+      "specified": "specified",
+      "unspecified": "unspecified",
+      "contains": "contains"
+    }
+  },
+  "entities": {
+    "project": {
+      "deleteDialog": {
+        "title": "Delete project",
+        "description": "Are you sure?"
+      },
+      "noItems": "No projects available",
+      "id": "ID",
+      "name": "entities.project.name",
+      "partner_id": "entities.project.partner_id",
+      "customer_id": "entities.project.customer_id",
+      "procurment_officer_name": "entities.project.procurment_officer_name",
+      "procurment_contact_no": "entities.project.procurment_contact_no",
+      "tickets": "entities.project.tickets",
+      "subscriptions": "entities.project.subscriptions"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "fluentMethods": true,
+  "clientRootFolder": "skeleton",
+  "relationships": [],
+  "fields": [
+    {
+      "fieldName": "status",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "description",
+      "fieldType": "String"
+    }
+  ],
+  "changelogDate": "20210212034508",
+  "dto": "no",
+  "searchEngine": false,
+  "service": "no",
+  "entityTableName": "ticket",
+  "databaseType": "sql",
+  "readOnly": false,
+  "jpaMetamodelFiltering": false,
+  "pagination": "no",
+  "microserviceName": "skeleton"
+}

@@ -1,0 +1,45 @@
+{
+  "fluentMethods": true,
+  "clientRootFolder": "skeleton",
+  "relationships": [],
+  "fields": [
+    {
+      "fieldName": "name",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "partner_id",
+      "fieldType": "Integer"
+    },
+    {
+      "fieldName": "customer_id",
+      "fieldType": "Integer"
+    },
+    {
+      "fieldName": "procurment_officer_name",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "procurment_contact_no",
+      "fieldType": "Integer"
+    },
+    {
+      "fieldName": "tickets",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "subscriptions",
+      "fieldType": "String"
+    }
+  ],
+  "changelogDate": "20210212034407",
+  "dto": "no",
+  "searchEngine": false,
+  "service": "no",
+  "entityTableName": "project",
+  "databaseType": "sql",
+  "readOnly": false,
+  "jpaMetamodelFiltering": false,
+  "pagination": "no",
+  "microserviceName": "skeleton"
+}
